@@ -3,9 +3,9 @@
 
 <br/>
 
-<h4 align="left">
+<h3 align="left">
 Focussed on deep learning for medical purposes. Enhancing medical diagnosis and treatment; Also with less harm!
-</h4>
+</h3>
 
 <br/><br/>
 
