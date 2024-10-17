@@ -16,7 +16,7 @@ Focussed on deep learning for medical purposes. Enhancing medical diagnosis and 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/alirzsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="alirzsp" height="30" width="40" /></a>
+<a href="mailto:alirzsp77@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="alirzsp" height="30" width="40" /></a>
 <a href="https://t.me/alirzsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="alirzsp" height="30" width="40" /></a>
 <a href="https://kaggle.com/alirzsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alirzsp" height="30" width="40" /></a>
 <a href="https://instagram.com/alirz_soheili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alirz_soheili" height="30" width="40" /></a>
