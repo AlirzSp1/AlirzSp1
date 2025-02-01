@@ -20,7 +20,7 @@ Focussed on deep learning for medical purposes. Enhancing medical diagnosis and 
 <a href="https://t.me/alirzsp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="alirzsp" height="30" width="40" /></a>
 <a href="https://kaggle.com/alirzsp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alirzsp" height="30" width="40" /></a>
 <a href="https://instagram.com/alirz_soheili" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alirz_soheili" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/alireza-soheilipour-610aa434a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="alireza-soheilipour-610aa434a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alireza-soheilipour-610aa434a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alireza-soheilipour-610aa434a" height="30" width="40" /></a>
 </p>
 
 
