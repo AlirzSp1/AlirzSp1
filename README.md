@@ -4,7 +4,7 @@
 <br/>
 
 <h3 align="left">
-Focussed on deep learning for medical purposes. Enhancing medical diagnosis and treatment; Also with less harm!
+Focused on deep learning for medical purposes. Enhancing medical diagnosis and treatment; Also with less harm!
 </h3>
 
 <br/><br/>
