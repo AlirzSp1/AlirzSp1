@@ -13,7 +13,7 @@ Focused on deep learning for medical purposes. Enhancing medical diagnosis and t
 
 <img src="https://skillicons.dev/icons?i=py,ai,tensorflow,pytorch,opencv,fastapi,dart,sklearn,matlab" width="100%">
 <img src="https://skillicons.dev/icons?i=qt,powershell,bash,linux,git,github,gitlab,stackoverflow,vscode" width="100%">
-<img src="https://skillicons.dev/icons?i=docker,anaconda,cloudflare,bootstrap,css,django,firebase" width="80%">
+<img src="https://skillicons.dev/icons?i=docker,anaconda,cloudflare,bootstrap,css,django,firebase" width="70%">
 <br/>
 
 <h2 align="left">Connect with me:</h2>
