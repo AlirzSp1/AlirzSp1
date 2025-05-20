@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alireza Soheilipour</h1>
 <h3 align="center">A medical doctor who has enjoyed codding from the day he was born...</h3>
-<h3 align="center">
-Focused on deep learning for medical purposes.<br/>
-Enhancing medical diagnosis and treatment; Also with less harm!
-</h3>
+<h3 align="center">Focused on deep learning for medical purposes.</h3>
+<h3 align="center">Enhancing medical diagnosis and treatment; Also with less harm!</h3>
 
 <br/><br/>
 
