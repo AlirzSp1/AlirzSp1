@@ -9,14 +9,14 @@ Focused on deep learning for medical purposes. Enhancing medical diagnosis and t
 
 <br/><br/>
 
-<h3 align="left">Skills:</h3>
+<h2 align="left">Skills:</h2>
 
 <img src="https://skillicons.dev/icons?i=py,ai,tensorflow,pytorch,opencv,fastapi,dart,sklearn,matlab" width="100%">
 <img src="https://skillicons.dev/icons?i=qt,powershell,bash,linux,git,github,gitlab,stackoverflow,vscode" width="100%">
 <img src="https://skillicons.dev/icons?i=docker,anaconda,cloudflare,bootstrap,css,django,firebase" width="100%">
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="mailto:alirzsp77@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="100%"></a>
 <a href="https://t.me/alirzsp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="alirzsp" height="40" width="40" /></a>
