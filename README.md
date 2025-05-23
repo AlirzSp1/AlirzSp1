@@ -18,7 +18,7 @@
 <a href="https://t.me/alirzsp" target="_blank"><img height="40" src="https://cdn.simpleicons.org/telegram?viewbox=auto" /></a>
 <a href="https://kaggle.com/alirzsp" target="_blank"><img height="40" src="https://cdn.simpleicons.org/kaggle?viewbox=auto" /></a>
 <a href="https://instagram.com/alirz_soheili" target="_blank"><img height="40" src="https://cdn.simpleicons.org/instagram?viewbox=auto" /></a>
-<a href="https://www.linkedin.com/in/alirzsp" target="_blank"><img height="40" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/alirzsp" target="_blank"><img height="40" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/linkedin.svg?viewbox=auto" /></a>
 </p>
 
 
