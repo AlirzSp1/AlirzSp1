@@ -5,8 +5,7 @@
 
 <br/><br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ai,tensorflow,pytorch,opencv,fastapi,sklearn,linux">
-  <img src="https://skillicons.dev/icons?i=qt,git,github,gitlab,firebase,vscode,docker,anaconda">
+  <img src="https://skillicons.dev/icons?i=py,ai,tensorflow,pytorch,opencv,fastapi,sklearn,linux,qt,git,github,gitlab,firebase,vscode,docker,anaconda&perline=8">
 </p>
 <br/>
 
