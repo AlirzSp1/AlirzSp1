@@ -4,12 +4,10 @@
 <h3 align="center">Enhancing medical diagnosis and treatment; Also with less harm!</h3>
 
 <br/><br/>
-
-<h2 align="left">Skills:</h2>
-
-<img src="https://skillicons.dev/icons?i=py,ai,tensorflow,pytorch,opencv,fastapi,dart,sklearn,matlab,linux" width="100%">
-<img src="https://skillicons.dev/icons?i=qt,powershell,bash,git,github,gitlab,stackoverflow,vscode,docker,anaconda" width="100%">
-<img src="https://skillicons.dev/icons?i=cloudflare,bootstrap,css,django,firebase" width="50%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ai,tensorflow,pytorch,opencv,fastapi,sklearn,linux">
+  <img src="https://skillicons.dev/icons?i=qt,git,github,gitlab,firebase,vscode,docker,anaconda">
+</p>
 <br/>
 
 <h2 align="left">Connect with me:</h2>
