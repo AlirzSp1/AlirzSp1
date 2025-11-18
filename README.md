@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alireza Soheilipour,MD</h1>
-<h3 align="center">A medical doctor who has enjoyed codding from the day he was born...</h3>
+<h3 align="center">A medical doctor who has enjoyed coding from the day he was born...</h3>
 <h3 align="center">Focused on deep learning for medical purposes.</h3>
 <h3 align="center">Enhancing medical diagnosis and treatment...</h3>
 <h3 align="center">Also with less harm!</h3>
