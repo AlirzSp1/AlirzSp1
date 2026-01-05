@@ -15,7 +15,7 @@
   <a href="mailto:alirzsp77@gmail.com" target="_blank"><img height="40" src="https://cdn.simpleicons.org/gmail?viewbox=auto" /></a>
   <a href="https://t.me/alirzsp" target="_blank"><img height="40" src="https://cdn.simpleicons.org/telegram?viewbox=auto" /></a>
   <a href="https://kaggle.com/alirzsp" target="_blank"><img height="40" src="kaggle.png" /></a>
-  <a href="https://instagram.com/alirz_soheili" target="_blank"><img height="40" src="https://cdn.simpleicons.org/instagram?viewbox=auto" /></a>
+  <a href="https://instagram.com/alirz_soheili" target="_blank"><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Instagram.svg" /></a>
   <a href="https://www.linkedin.com/in/alirzsp" target="_blank"><img height="40" src="linkedin.png" /></a>
 </p>
 
